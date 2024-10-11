@@ -36,7 +36,7 @@ class _HomeScreenState extends State<HomeScreen> {
       backgroundColor: Color(0xff343541),
       appBar: AppBar(
         title: const Text(
-          'Flutter OpenAI',
+          'Flutter OpenAi',
           style: TextStyle(color: Colors.white),
         ),
         backgroundColor: Color(0xff343541),
